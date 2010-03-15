@@ -804,7 +804,7 @@ CORBA_Environment* oe_env)
               octets</p>
           </item>
         </list>
-        <p>The erlang binary IDL type is defined in <c>erlang.idl</c>, while it's 
+        <p>The erlang binary IDL type is defined in <c>erlang.idl</c>, while its
           C definition is located in the <c>ic.h</c> header file, both in the 
           <c><![CDATA[IC-< vsn >/include]]></c> directory.
           The user will have to include the file <c>erlang.idl</c> in order to use the
